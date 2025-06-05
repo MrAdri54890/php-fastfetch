@@ -107,7 +107,7 @@ echo <<<HTML
 <body>
 <pre>$logo
 
-OS:          $os x86_64
+OS:          $os
 Host:        $host
 Kernel:      $kernel
 Uptime:      $uptime
