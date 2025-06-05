@@ -87,7 +87,7 @@ $disk = getDisk();
 
 echo <<<HTML
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
 <meta charset="UTF-8" />
 <title>php-fastfetch</title>
