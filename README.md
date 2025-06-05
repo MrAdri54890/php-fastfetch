@@ -1,5 +1,6 @@
 # php-fastfetch
-Safe implementation of Fastfetch in PHP
+Safe implementation of Fastfetch in PHP,
+No use of shell execution functions such as shell_exec, exec, system, or passthru.
 
 Example:
 
